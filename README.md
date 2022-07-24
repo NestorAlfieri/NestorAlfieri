@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Hello! I´m a software development student, looking for a new career challenge in the IT sector. I´m also a psychologyst, eagger to share my soft skills too!
 <!--
 **NestorAlfieri/NestorAlfieri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
